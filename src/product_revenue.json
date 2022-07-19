@@ -1,0 +1,82 @@
+[{
+  "id": 1,
+  "product_name": "Mitsubishi",
+  "total_revenue": 8363.81
+}, {
+  "id": 2,
+  "product_name": "Lexus",
+  "total_revenue": 3512.64
+}, {
+  "id": 3,
+  "product_name": "Porsche",
+  "total_revenue": 5822.33
+}, {
+  "id": 4,
+  "product_name": "Lexus",
+  "total_revenue": 3811.66
+}, {
+  "id": 5,
+  "product_name": "Geo",
+  "total_revenue": 7655.90
+}, {
+  "id": 6,
+  "product_name": "Pontiac",
+  "total_revenue": 8554.60
+}, {
+  "id": 7,
+  "product_name": "Mercedes-Benz",
+  "total_revenue": 2818.39
+}, {
+  "id": 8,
+  "product_name": "Chevrolet",
+  "total_revenue": 5270.97
+}, {
+  "id": 9,
+  "product_name": "Audi",
+  "total_revenue": 4310.18
+}, {
+  "id": 10,
+  "product_name": "Subaru",
+  "total_revenue": 3540.86
+}, {
+  "id": 11,
+  "product_name": "Chevrolet",
+  "total_revenue": 9326.71
+}, {
+  "id": 12,
+  "product_name": "Cadillac",
+  "total_revenue": 7247.02
+}, {
+  "id": 13,
+  "product_name": "Ford",
+  "total_revenue": 8918.50
+}, {
+  "id": 14,
+  "product_name": "Toyota",
+  "total_revenue": 6440.74
+}, {
+  "id": 15,
+  "product_name": "Land Rover",
+  "total_revenue": 5506.01
+}, {
+  "id": 16,
+  "product_name": "Toyota",
+  "total_revenue": 7640.63
+}, {
+  "id": 17,
+  "product_name": "Porsche",
+  "total_revenue": 2747.87
+}, {
+  "id": 18,
+  "product_name": "Lincoln",
+  "total_revenue": 4276.06
+}, {
+  "id": 19,
+  "product_name": "Chevrolet",
+  "total_revenue": 8468.22
+}, {
+  "id": 20,
+  "product_name": "Mercedes-Benz",
+  "total_revenue": 1929.82
+}]
+
